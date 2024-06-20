@@ -5,7 +5,7 @@ const App = () => {
   const [counter, setCounter] = useState(0);
 
   const handleClick = () => {
-    console.log("12");
+    // console.log("12");
     setCounter(counter + 1);
   };
 
